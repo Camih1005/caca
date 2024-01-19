@@ -1,0 +1,66 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "camilo",
+      "contraseña": "123",
+      "historial": []
+    },
+    {
+      "id": "0372",
+      "nombre": "cacaca",
+      "contraseña": "123"
+    },
+    {
+      "id": "e8b0",
+      "nombre": "lorenzo",
+      "contraseña": "123"
+    },
+    {
+      "id": "e88a",
+      "nombre": "lorenzogay",
+      "contraseña": "123",
+      "historial": [
+        "nombreProducto",
+        "nombreProducto",
+        "nombreProducto",
+        "nombreProducto",
+        "nombreProducto",
+        "nombreProducto",
+        "nombreProducto",
+        1900000
+      ]
+    },
+    {
+      "id": "3c05",
+      "nombre": "DANIEL",
+      "contraseña": "123",
+      "historial": []
+    },
+    {
+      "id": "c3e8",
+      "nombre": "papa",
+      "contraseña": "123",
+      "historial": [
+        {
+          "productos": [
+            {
+              "nombreProducto": "FizzPro",
+              "cantidad": 3
+            }
+          ],
+          "fecha": "2024-01-18T20:50:11.705Z"
+        },
+        {
+          "productos": [
+            {
+              "nombreProducto": "FizzPro",
+              "cantidad": 3
+            }
+          ],
+          "fecha": "2024-01-18T20:50:11.706Z"
+        }
+      ]
+    }
+  ]
+}
